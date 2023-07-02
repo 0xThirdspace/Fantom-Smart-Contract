@@ -21,3 +21,4 @@ npx hardhat node
 npx hardhat run scripts/deploy.ts
 
 
+![photo_2023-06-07_07-36-32](https://github.com/0xThirdspace/Fantom-Smart-Contract/assets/88948022/3a89d5fe-2ee6-4705-989c-bd07a44ba8f9)
